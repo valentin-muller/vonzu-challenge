@@ -1,0 +1,162 @@
+{
+  "1": {
+    "id": "00199821",
+    "type": "delivery",
+    "date": "2019-09-20",
+    "address": {
+      "street": "C/ CALDERILLA NUM 1CC ISLA AZUL L-051",
+      "postalCode": "28054",
+      "city": "Madrid",
+      "province": "Madrid",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "10:00:00",
+        "12:00:00"
+      ]
+    ],
+    "weight": 45,
+    "comments": ""
+  },
+  "2": {
+    "id": "00199822",
+    "type": "pickup",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Carrer de València, 279",
+      "postalCode": "08009",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "12:00:00",
+        "13:30:00"
+      ]
+    ],
+    "weight": 36,
+    "comments": "Entrega nocturna"
+  },
+  "3": {
+    "id": "00199823",
+    "type": "pickup",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Carrer de València, 279",
+      "postalCode": "08009",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "11:00:00",
+        "13:00:00"
+      ]
+    ],
+    "weight": 20,
+    "comments": "Entrega nocturna"
+  },
+  "4": {
+    "id": "00199824",
+    "type": "delivery",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Rambla de Catalunya, 98",
+      "postalCode": "08009",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "07:00:00",
+        "09:30:00"
+      ]
+    ],
+    "weight": 16,
+    "comments": "Entrega nocturna"
+  },
+  "5": {
+    "id": "00199825",
+    "type": "pickup",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Carrer de Josep María de Sagarra, 4-8",
+      "postalCode": "08034",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "06:00:00",
+        "10:00:00"
+      ]
+    ],
+    "weight": 10,
+    "comments": ""
+  },
+  "6": {
+    "id": "00199826",
+    "type": "pickup",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Carrer de Muntaner, 70",
+      "postalCode": "08011",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "16:00:00",
+        "18:00:00"
+      ]
+    ],
+    "weight": 26,
+    "comments": ""
+  },
+  "7": {
+    "id": "00199827",
+    "type": "delivery",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Carrer de Casanova, 77, 79",
+      "postalCode": "08011",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "18:00:00",
+        "20:00:00"
+      ]
+    ],
+    "weight": 26,
+    "comments": ""
+  },
+  "8": {
+    "id": "00199828",
+    "type": "delivery",
+    "date": "2019-09-08",
+    "address": {
+      "street": "Plaça de Vicenç Martorell, 5-3",
+      "postalCode": "08001",
+      "city": "Barcelona",
+      "province": "Barcelona",
+      "country": "España"
+    },
+    "schedules": [
+      [
+        "15:00:00",
+        "17:00:00"
+      ]
+    ],
+    "weight": 26,
+    "comments": ""
+  }
+}
